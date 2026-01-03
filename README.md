@@ -1,4 +1,4 @@
 # livingprabhatxd
 This  is my first Git project.
 <br>
-Autho-Prabhat sinha
+<h1>Author-Prabhat sinha</h1>
